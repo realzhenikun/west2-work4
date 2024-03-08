@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">牛魔掘金</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_write">WriteActivity</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_activity_set">SetActivity</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_comment">CommentActivity</string>
+</resources>
